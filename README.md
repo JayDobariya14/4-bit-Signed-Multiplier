@@ -18,7 +18,7 @@ This project implements a 4-bit signed multiplier by updating an existing 4-bit 
 ## How to Use
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/4-bit-Signed-Multiplier.git
+    git clone https://github.com/JayDobariya14/4-bit-Signed-Multiplier.git
     cd 4-bit-Signed-Multiplier
     ```
 
